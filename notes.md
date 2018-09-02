@@ -16,3 +16,5 @@ Preferably by property. Like background-color => winning css rule (Which file et
 - https://github.com/painty/CSS-Used-ChromeExt
 - https://stackoverflow.com/questions/7754469/export-css-of-dom-elements
 - https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
+- https://github.com/csstree/csstree
+- https://tinycss.readthedocs.io/en/latest/index.html#
