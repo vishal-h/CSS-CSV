@@ -15,3 +15,4 @@ Preferably by property. Like background-color => winning css rule (Which file et
 - https://gist.github.com/renoirb/6f45660a72b68617545205f96da6625c
 - https://github.com/painty/CSS-Used-ChromeExt
 - https://stackoverflow.com/questions/7754469/export-css-of-dom-elements
+- https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
