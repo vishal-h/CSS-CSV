@@ -1,5 +1,4 @@
 ## Notes
----
 
 ### CSS -> CSV
 Why?
@@ -9,4 +8,8 @@ Preferably by property. Like background-color => winning css rule (Which file et
 
 ### Books and other stuff
 
-### Power testers
+### Power testing
+
+### Resources
+---
+-  https://github.com/CSSInDepth/css-in-depth
