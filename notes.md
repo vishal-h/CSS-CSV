@@ -34,3 +34,4 @@ Preferably by property. Like background-color => winning css rule (Which file et
 - https://stackoverflow.com/questions/10963997/css-parser-for-javascript
 - https://www.npmjs.com/package/css
 - https://github.com/jotform/css.js
+- https://www.w3.org/TR/WD-positioning-970131
