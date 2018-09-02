@@ -1,6 +1,7 @@
 ## Notes
 
 ### CSS -> CSV
+---
 Why?
 
 css_rule = {:selector, :directive, :value}
@@ -14,9 +15,11 @@ applied_element = {:element, :selectors}
 CSS Index/Reindex
 
 ### Chrome Extension to show CSS
+---
 Preferably by property. Like background-color => winning css rule (Which file etc)
 
 ### Power testing
+---
 
 ### Resources, Books and other stuff (In no particular order)
 ---
