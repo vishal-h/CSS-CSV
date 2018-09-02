@@ -18,3 +18,5 @@ Preferably by property. Like background-color => winning css rule (Which file et
 - https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
 - https://github.com/csstree/csstree
 - https://tinycss.readthedocs.io/en/latest/index.html#
+- https://stackoverflow.com/questions/10963997/css-parser-for-javascript
+- https://www.npmjs.com/package/css
