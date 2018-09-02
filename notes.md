@@ -6,10 +6,8 @@ Why?
 ### Chrome Extension to show CSS
 Preferably by property. Like background-color => winning css rule (Which file etc)
 
-### Books and other stuff
-
 ### Power testing
 
-### Resources
+### Resources, Books and other stuff
 ---
 -  https://github.com/CSSInDepth/css-in-depth
