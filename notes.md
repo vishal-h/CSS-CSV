@@ -35,3 +35,4 @@ Preferably by property. Like background-color => winning css rule (Which file et
 - https://www.npmjs.com/package/css
 - https://github.com/jotform/css.js
 - https://www.w3.org/TR/WD-positioning-970131
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
